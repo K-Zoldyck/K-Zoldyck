@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data structures and algorithms.
 - 💞️ I’m looking to collaborate on web development, whether it's backend or frontend.
 - 📫 How to reach me: my email.
-- ⚡ Fun fact: Despite my age, I still enjoy cartoons, anime, etc.
+- ⚡ Fun fact: Despite my age, I still enjoy cartoons, anime 😐
 
 
 <!---
