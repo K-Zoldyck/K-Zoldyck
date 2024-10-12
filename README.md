@@ -1,28 +1,19 @@
-- 👋 Hi, I’m K-Zoldyck
-- 👀 I’m interested in learning to solve problems with code and making money.
-- 🌱 I’m currently learning data structures and algorithms.
-- 💞️ I’m looking to collaborate on web development, whether it's backend or frontend.
-- 📫 How to reach me: my email.
-- ⚡ Fun fact: Despite my age, I still enjoy cartoons, anime 😐
+## ⚡ K-Zoldyck (Roberto Dias)
 
+<b>Desenvolvedor Full Stack</b><br/>
+Atualmente focado em criar soluções eficientes utilizando várias tecnologias e ferramentas de desenvolvimento. Busco sempre aprimorar minhas habilidades e contribuir com projetos que impactam positivamente a vida das pessoas.
 
-<!---
-mr-suida/mr-suida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
 
-<!---
-### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=lua,java,python,html,css,js,mysql,sqlite,git,docker,linux,windows)](https://skillicons.dev)
 
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
+### 🛠️ **Skills**:
+- **Linguagens**: Java, Lua, Python,C, SQL, HTML/CSS, JavaScript
+- **Ferramentas**: Git, Docker, GitHub, NetBeans, Swing,vscode,nvim,cli
+- **Sistemas Operacionais**: Linux, Windows
+- **Pentest básico**: Conhecimento inicial em testes de invasão e segurança
+- **Outras habilidades**: Estrutura de dados, Desenvolvimento de APIs, Controle de versão
 
-### Web Technologies
+<hr/>
 
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
---->
+###### 📫 **devv-robert@outlook.com**
