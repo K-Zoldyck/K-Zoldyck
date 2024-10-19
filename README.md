@@ -5,8 +5,6 @@ Atualmente focado em criar soluções eficientes utilizando várias tecnologias 
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=lua,java,python,html,css,js,mysql,sqlite,git,docker,linux,windows)](https://skillicons.dev)
-
 ### 🛠️ **Skills**:
 - **Linguagens**: Java, Lua, Python,C, SQL, HTML/CSS, JavaScript
 - **Ferramentas**: Git, Docker, GitHub, NetBeans, Swing,vscode,nvim,cli
