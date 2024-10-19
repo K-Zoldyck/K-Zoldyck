@@ -17,5 +17,6 @@ Atualmente focado em criar soluções eficientes utilizando várias tecnologias 
 ![](https://github-readme-stats.vercel.app/api?username=K-Zoldyck&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=K-Zoldyck&theme=default&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Zoldyck&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
-[![](https://visitcount.itsvg.in/api?id=K-Zoldyck&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=K-Zoldyck&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
